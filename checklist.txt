@@ -3,7 +3,7 @@ REST With MongoDB           Done
 Authentication              Done
 Advanced Authentication     Done
 Sending Emails              Done
-File Upload                 
 Pagination                  Done
+File Upload                 Done
 Payments                    
 Websockets                  
