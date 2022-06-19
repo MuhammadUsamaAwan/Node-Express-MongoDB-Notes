@@ -1,0 +1,9 @@
+Basic REST API              Done
+REST With MongoDB           Done
+Authentication              Done
+Advanced Authentication     Done
+Sending Emails              Done
+File Upload                 
+Pagination                  Done
+Payments                    
+Websockets                  
